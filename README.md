@@ -37,7 +37,7 @@ This folder focuses on array-related problems and techniques, including dynamic 
 - [**Q1_Swaping_Values.java**](https://github.com/GKrizz/Java-DSA/blob/main/Array/Q1_Swaping_Values.java): Swaps two values in an array.
 - [**Q2_Max_Element.java**](https://github.com/GKrizz/Java-DSA/blob/main/Array/Q2_Max_Element.java): Finds the maximum element in an array.
 - [**Q3_Reverse_Array.java**](https://github.com/GKrizz/Java-DSA/blob/main/Array/Q3_Reverse_Array.java): Reverses the elements of an array.
-- 
+
 ## How to Use
 1. Clone this repository:
    ```bash
