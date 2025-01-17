@@ -28,7 +28,16 @@ This folder includes examples of functions and methods, showcasing concepts like
 - [**Q3_Armstrong_Number.java**](https://github.com/GKrizz/Java-DSA/blob/main/Functions_or_Methods/Q3_Armstrong_Number.java): Determines if a number is an Armstrong number.
 - [**VarArgs.java**](https://github.com/GKrizz/Java-DSA/blob/main/Functions_or_Methods/VarArgs.java): Demonstrates the use of variable-length arguments in functions.
 
+### 4. **Arrays**
+This folder focuses on array-related problems and techniques, including dynamic arrays and multidimensional arrays:
 
+- [**Dynamic_Arrays/Array_List_Example.java**](https://github.com/GKrizz/Java-DSA/blob/main/Array/Dynamic_Arrays/Array_List_Example.java): Demonstrates the use of dynamic arrays (ArrayList) in Java.
+- [**Array.java**](https://github.com/GKrizz/Java-DSA/blob/main/Array/Array.java): Introduces basic array operations in Java.
+- [**MultiDimansion.java**](https://github.com/GKrizz/Java-DSA/blob/main/Array/MultiDimansion.java): Explores multidimensional arrays and their applications.
+- [**Q1_Swaping_Values.java**](https://github.com/GKrizz/Java-DSA/blob/main/Array/Q1_Swaping_Values.java): Swaps two values in an array.
+- [**Q2_Max_Element.java**](https://github.com/GKrizz/Java-DSA/blob/main/Array/Q2_Max_Element.java): Finds the maximum element in an array.
+- [**Q3_Reverse_Array.java**](https://github.com/GKrizz/Java-DSA/blob/main/Array/Q3_Reverse_Array.java): Reverses the elements of an array.
+- 
 ## How to Use
 1. Clone this repository:
    ```bash
