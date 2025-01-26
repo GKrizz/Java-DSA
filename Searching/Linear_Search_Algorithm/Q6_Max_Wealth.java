@@ -1,4 +1,4 @@
-package Linear_Search_Algorithm;
+package Searching.Linear_Search_Algorithm;
 
 public class Q6_Max_Wealth {
     public static void main(String[] args) {

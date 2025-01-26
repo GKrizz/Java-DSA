@@ -1,4 +1,4 @@
-package Linear_Search_Algorithm;
+package Searching.Linear_Search_Algorithm;
 
 public class Q3_Find_minimum {
     static int find_min(int[] arr){

@@ -1,4 +1,4 @@
-package Linear_Search_Algorithm;
+package Searching.Linear_Search_Algorithm;
 
 public class Q2_Search_in_Range {
     static boolean linear_search_1(String str,char target,int start,int end){

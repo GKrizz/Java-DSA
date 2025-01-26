@@ -1,4 +1,4 @@
-package Linear_Search_Algorithm;
+package Searching.Linear_Search_Algorithm;
 
 public class Searching {
     //search target and return index

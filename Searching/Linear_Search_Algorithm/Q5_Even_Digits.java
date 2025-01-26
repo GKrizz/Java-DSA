@@ -1,4 +1,4 @@
-package Linear_Search_Algorithm;
+package Searching.Linear_Search_Algorithm;
 
 public class Q5_Even_Digits {
     static int findNumbers(int[] arr){
