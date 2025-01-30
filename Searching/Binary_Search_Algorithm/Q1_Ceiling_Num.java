@@ -1,6 +1,6 @@
 package Searching.Binary_Search_Algorithm;
 
-public class Ceiling_Num {
+public class Q1_Ceiling_Num {
     static int search(int[] arr,int target){
         if(target>arr[arr.length-1]) return -1;
         int s=0;
