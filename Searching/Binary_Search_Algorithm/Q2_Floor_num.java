@@ -1,6 +1,6 @@
 package Searching.Binary_Search_Algorithm;
 
-public class Floor_num {
+public class Q2_Floor_num {
     static int search(int[] arr,int target){
 
         int s=0;
