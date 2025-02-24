@@ -1,6 +1,6 @@
 package Searching.Binary_Search_Algorithm;
 
-public class Smallest_Letter_Greater_Than_Target {
+public class Q3_Smallest_Letter_Greater_Than_Target {
     static char nextGreatestLetter(char[] arr, char target){
         int s=0;
         int e=arr.length-1;
